@@ -1,4 +1,4 @@
-# Pocket Calculator App ὎e✨
+# Pocket Calculator App✨
 
 ## Project Description 📍
 
