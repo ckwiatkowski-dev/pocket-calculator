@@ -140,4 +140,4 @@ Email: cyprkwiat@gmail.com
 
 ## Demo 🌐
 
-Check out the live demo of the Handy Calculator App here: [Pocket Calculator Demo](https://handy-calculator-demo.netlify.app/)
+Check out the live demo of the Handy Calculator App here: [Pocket Calculator Demo](https://pocky-calculator-demo.netlify.app)
